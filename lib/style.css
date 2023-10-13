@@ -20,8 +20,13 @@ h1 {
   border: solid black 3px;
   margin: 15px auto;
   width: 425px;
+  
+  
 }
-
+.alive-or-dead{
+  display: flex;
+  justify-content: center;
+}
 h3 {
   text-align: center;
   font-size: 30px;
@@ -40,3 +45,9 @@ img {
   font-family: "Ubuntu", sans-serif;
   font-size: 18px;
 }
+
+.sub-header{
+  display: flex;
+  justify-content: center;
+}
+
